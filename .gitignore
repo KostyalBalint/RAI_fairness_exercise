@@ -2,6 +2,7 @@
 /dev/
 /pretrained_model/
 # /datafiles/
+data
 
 
 # __pycache__
@@ -13,4 +14,5 @@
 /exercise_dev.ipynb
 /exercise_pub.ipynb
 /exercise_oldver.ipynb
+
 
